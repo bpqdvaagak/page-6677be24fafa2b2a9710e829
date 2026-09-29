@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.nbgbqor.cn/sitemap.xml
